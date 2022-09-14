@@ -170,6 +170,10 @@ a:focus {
 /*end header section*/
 
 /* hero section */
+.title {
+  text-align: center;
+}
+
 .hero-container {
   display: flex;
   padding-top: 90px;
